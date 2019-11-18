@@ -99,10 +99,10 @@ int main()
     //Generate a certificate for every voter
     
     generate_Voter_C("mariana");
-    generate_Voter_C("matilde");
+    //generate_Voter_C("matilde");
     generate_Voter_C("xico");
-    generate_Voter_C("calamar");
-    generate_Voter_C("miguel");
+    //generate_Voter_C("calamar");
+    //generate_Voter_C("miguel");
 
 
 }
