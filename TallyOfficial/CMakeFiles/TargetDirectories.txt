@@ -1,0 +1,3 @@
+/home/mariana/Desktop/Project/TallyOfficial/CMakeFiles/rebuild_cache.dir
+/home/mariana/Desktop/Project/TallyOfficial/CMakeFiles/tally.dir
+/home/mariana/Desktop/Project/TallyOfficial/CMakeFiles/edit_cache.dir

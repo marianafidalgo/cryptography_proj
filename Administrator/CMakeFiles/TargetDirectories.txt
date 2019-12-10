@@ -1,0 +1,3 @@
+/home/mariana/Desktop/Project/Administrator/CMakeFiles/rebuild_cache.dir
+/home/mariana/Desktop/Project/Administrator/CMakeFiles/adm.dir
+/home/mariana/Desktop/Project/Administrator/CMakeFiles/edit_cache.dir

@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/local/include/SEAL-3.4",
+                "/home/mariana/Desktop/SEAL-master/native/src"
             ],
             "defines": [
                 "_DEBUG",

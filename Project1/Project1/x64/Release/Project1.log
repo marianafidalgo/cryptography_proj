@@ -1,0 +1,8 @@
+﻿  tallyofficial.cpp
+C:\Users\maria\Desktop\Uni\Mestrado\4oano\Cripto\Project\tallyofficial.cpp(92,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 208 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\maria\Desktop\Uni\Mestrado\4oano\Cripto\Project\Project1\x64\Release\Project1.exe

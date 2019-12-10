@@ -1,0 +1,3 @@
+/home/mariana/Desktop/Project/Counter/CMakeFiles/rebuild_cache.dir
+/home/mariana/Desktop/Project/Counter/CMakeFiles/counter.dir
+/home/mariana/Desktop/Project/Counter/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/mariana/Desktop/Project/VoterApp/CMakeFiles/rebuild_cache.dir
+/home/mariana/Desktop/Project/VoterApp/CMakeFiles/voter.dir
+/home/mariana/Desktop/Project/VoterApp/CMakeFiles/edit_cache.dir
