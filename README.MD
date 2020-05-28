@@ -1,9 +1,9 @@
-#Homomorphic Vote Tally
+# Homomorphic Vote Tally
 --------------------------
-###*IMPORTANT NOTE: To run some of the files you need to adjust to your PC directories. 
+### *IMPORTANT NOTE: To run some of the files you need to adjust to your PC directories. 
 (In the administrator: line 147  and in the counter: line 40
-###*IMPORTANT NOTE: you need to run the following command to allow the use of Shamir Secret Sharing. 
-##Run in terminal:
+### *IMPORTANT NOTE: you need to run the following command to allow the use of Shamir Secret Sharing. 
+## Run in terminal:
 $cargo install --git https://github.com/dsprenkels/sss-cli --branch v0.1
 
 *To begin the election you should compile the .cpp inside the
